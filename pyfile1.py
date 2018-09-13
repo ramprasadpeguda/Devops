@@ -1,1 +1,4 @@
-This is the first line in my cloud
+Mercury
+Venus
+Earth
+Mars
